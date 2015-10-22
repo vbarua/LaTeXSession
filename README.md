@@ -49,5 +49,5 @@ This LaTeX session can only teach you the basics. To really get down to using La
 * The [Wikibooks
           LaTeX](http://en.wikibooks.org/wiki/LaTeX/) guide is another excellent and quite comprehensive resource which is loaded with information.
           
-## Disclamer
+## Disclaimer
 Based on work by Ray Goerke, Henry Ngo and William Scales for use by the [Physics Society](http://physsoc.phas.ubc.ca/) of the University of British Columbia.
