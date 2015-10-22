@@ -15,6 +15,7 @@
 \usepackage{graphicx} % Allows including figures in ps (or eps) format
 \usepackage{dcolumn}  % Align columns on the decimal point
 \usepackage{bm}       % Makes math bold
+\usepackage{listings} % Insert formatted source code
 
 % This is a command definition
 \newcommand{\parl}[2]{\frac{\partial #1}{\partial #2}}
@@ -201,6 +202,12 @@ here:
     \caption{This is right here}
     \label{fig:here}
 \end{figure}
+
+\subsection{Source Code}
+
+In some cases you may need to include source code in \LaTeX~ documents. This can be achieved easily using the \verb_\lstinputlisting_ command from the listings package.
+\lstinputlisting[language=Python, caption=The Code, label=lst:fibonnaci]{fibonacci.py}
+You can also reference listings like this: Listing~\ref{lst:fibonnaci}.
 
 \section{Bibliography}
 
