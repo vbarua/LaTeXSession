@@ -11,7 +11,7 @@ Ubuntu and Debian users can enter the following in a terminal:
 ### Windows
 The easiest way to get LaTeX on Windows is to download and install MikTeX.  MikTeX gives you a full LaTeX distribution along with a nice editor and all the required programs to use LaTeX. It also comes with its own package manager, which makes it easy to download and install new LaTeX addons.
 
-You can download MikTeX [here](http://miktex.org/2.9/setup). Scroll down to the *"Basic MiKTeX 2.9" Installer* and click on the *Download* button.
+You can download MikTeX [here](http://miktex.org/download). Scroll down to the *"Basic MiKTeX 2.9" Installer* and click on the *Download* button.
 
 ### Mac OS X
 The preferred way to obtain LaTeX for OS X appears to be to install MacTeX, which can be obtained [here](https://tug.org/mactex/mactex-download.html).
